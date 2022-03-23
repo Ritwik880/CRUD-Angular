@@ -1,0 +1,22 @@
+@import url('https://fonts.googleapis.com/css2?family=Comic+Neue:ital,wght@0,700;1,400&family=Open+Sans:wght@600&family=Roboto:wght@700&family=Rubik:wght@400;500;600;700&display=swap');
+*{
+    font-family: 'Rubik', sans-serif;
+}
+nav{
+    padding: 1rem 2rem;
+    background: #4834d4;
+  
+   
+}
+nav a{
+    color: #FAFAFA;
+}
+nav ul li a{
+    color: #FAFAFA;
+}
+section{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
